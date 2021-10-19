@@ -1,0 +1,170 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+10 0 R
+]
+/Count 2
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20210804123942-03'00')
+/ModDate (D:20210804123942-03'00')
+/Title (Project Charter)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 4526 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 248.878 747.449 Td /F2 13.5 Tf  [(Project Charter)] TJ ET
+1.000 1.000 1.000 rg
+BT 357.830 714.276 Td /F1 0.8 Tf  [(Empresa)] TJ ET
+0.753 0.753 0.753 rg
+BT 360.831 714.276 Td /F1 8.2 Tf  [(Empresa)] TJ ET
+BT 393.839 714.276 Td /F1 8.2 Tf  [(: Empresa - Grupo 1540)] TJ ET
+BT 419.043 704.622 Td /F1 8.2 Tf  [(Data)] TJ ET
+BT 436.467 704.622 Td /F1 8.2 Tf  [(: 04/08/2021)] TJ ET
+0.000 0.000 0.000 rg
+BT 112.943 658.640 Td /F2 8.2 Tf  [(Título do projeto: )] TJ ET
+BT 112.943 646.888 Td /F1 8.2 Tf  [(Automação de Testes de Software em Satélites)] TJ ET
+BT 112.943 623.585 Td /F2 8.2 Tf  [(Gerente do projeto:)] TJ ET
+BT 112.943 611.833 Td /F1 8.2 Tf  [(Lucas Zacchi)] TJ ET
+BT 112.943 588.531 Td /F2 8.2 Tf  [(Justificativa: )] TJ ET
+BT 112.943 576.779 Td 1.645 Tw /F1 8.2 Tf  [(Satélites Artificais são sistemas complexos onde a execução correta dos sistemas e módulos é )] TJ ET
+BT 112.943 565.027 Td 0.634 Tw /F1 8.2 Tf  [(crítica para o andamento do projeto. Por isso, a etapa de testes de validação e integração tende a )] TJ ET
+BT 112.943 553.275 Td 1.818 Tw /F1 8.2 Tf  [(ser bem extensa e abrangente, podendo durar múltiplos meses, constituindo assim uma fração )] TJ ET
+BT 112.943 541.523 Td 0.000 Tw /F1 8.2 Tf  [(considerável do projeto, também chamado de missão. )] TJ ET
+BT 112.943 518.221 Td 0.867 Tw /F1 8.2 Tf  [(A implementação de um sistema de automatização da execução dos testes de integração permite )] TJ ET
+BT 112.943 506.468 Td 0.274 Tw /F1 8.2 Tf  [(que esta fase da missão seja facilitada, e proporciona um aumento no grau de confiança da mesma )] TJ ET
+BT 112.943 494.716 Td 1.817 Tw /F1 8.2 Tf  [(e, após sua execução, a análise dos resultados obtidos potencialmente oferecerá melhorias no )] TJ ET
+BT 112.943 482.964 Td 0.000 Tw /F1 8.2 Tf  [(processo de missões futuras.)] TJ ET
+BT 112.943 459.662 Td /F2 8.2 Tf  [(Objetivos:)] TJ ET
+BT 112.943 447.910 Td 0.232 Tw /F1 8.2 Tf  [(Implementação de um sistema de fluxos de execução automatizada de testes de software aplicados )] TJ ET
+BT 112.943 436.158 Td 0.000 Tw /F1 8.2 Tf  [(ao projeto de desenvolvimento de um satélite natural; )] TJ ET
+BT 112.943 412.856 Td 1.894 Tw /F1 8.2 Tf  [(Registro e armazenamento dos arquivos de 'log' gerados pela execução dos testes através do )] TJ ET
+BT 112.943 401.104 Td 0.000 Tw /F1 8.2 Tf  [(sistema automatizado; )] TJ ET
+BT 112.943 377.801 Td 1.925 Tw /F1 8.2 Tf  [(Análise por meio de algoritmos de extração de informações e reconhecimento de padrões dos )] TJ ET
+BT 112.943 366.049 Td 1.166 Tw /F1 8.2 Tf  [(arquivos armazenados a fim de obter informações conclusivas sobre a duração e a execução da )] TJ ET
+BT 112.943 354.297 Td 0.000 Tw /F1 8.2 Tf  [(etapa de testes do satélite.)] TJ ET
+BT 112.943 330.995 Td /F2 8.2 Tf  [(Resultados esperados: )] TJ ET
+BT 112.943 319.243 Td 4.454 Tw /F1 8.2 Tf  [(Novo sistema de fluxos de execução de testes automatizados, aplicados ao projeto de )] TJ ET
+BT 112.943 307.491 Td 0.000 Tw /F1 8.2 Tf  [(desenvolvimento de satélites artificiais; )] TJ ET
+BT 112.943 284.189 Td 2.696 Tw /F1 8.2 Tf  [(Resultados qualitativos e quantitativos obtidos a partir da leitura, interpretação e análise dos )] TJ ET
+BT 112.943 272.437 Td 0.620 Tw /F1 8.2 Tf  [(arquivos de registro gerados durante a execução dos testes automatizados por meio de algoritmos )] TJ ET
+BT 112.943 260.684 Td 0.000 Tw /F1 8.2 Tf  [(computacionais de análise e reconhecimento de padrões; )] TJ ET
+BT 112.943 237.382 Td /F1 8.2 Tf  [(Monografia \(TCC\).)] TJ ET
+BT 112.943 214.080 Td /F2 8.2 Tf  [(Premissas: )] TJ ET
+BT 112.943 202.328 Td 1.303 Tw /F1 8.2 Tf  [(Disponibilidade de computadores/servidores do laboratório de pesquisa SpaceLab para execução )] TJ ET
+BT 112.943 190.576 Td 0.000 Tw /F1 8.2 Tf  [(de experimentos; )] TJ ET
+BT 112.943 167.274 Td /F1 8.2 Tf  [(Uso de computador pessoal )] TJ ET
+BT 112.943 143.972 Td 1.525 Tw /F1 8.2 Tf  [(Uso de água, luz, energia e acomodações da UFSC quando permitida a volta das modalidades )] TJ ET
+BT 112.943 132.220 Td 0.000 Tw /F1 8.2 Tf  [(presenciais de ensino; )] TJ ET
+BT 112.943 108.917 Td /F1 8.2 Tf  [(Uso de água, luz, energia e acomodações da residência pessoal.)] TJ ET
+BT 112.943 85.615 Td /F2 8.2 Tf  [(Restrições:)] TJ ET
+BT 112.943 73.863 Td 1.460 Tw /F1 8.2 Tf  [(Os prazos de entrega das disciplinas INE5453 - Introdução ao Trabalho de Conclusão de curso )] TJ ET
+BT 112.943 62.111 Td 3.097 Tw /F1 8.2 Tf  [(\(2021.1\), INE5433 - Trabalho de Conclusão de Curso I \(2021.2\) e INE5434 - Trabalho de )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 1350 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 112.943 747.449 Td 0.000 Tw /F1 8.2 Tf  [(Conclusão de Curso II \(2022.1\) devem ser respeitados. )] TJ ET
+BT 112.943 724.147 Td /F1 8.2 Tf  [(A monografia deve ser aprovada pela banca examinadora.)] TJ ET
+BT 112.943 700.845 Td /F2 8.2 Tf  [(Orçamento \(R$\): )] TJ ET
+BT 112.943 689.093 Td /F1 8.2 Tf  [(13.000,00)] TJ ET
+BT 112.943 665.790 Td /F2 8.2 Tf  [(Data de início: )] TJ ET
+BT 112.943 654.038 Td /F1 8.2 Tf  [(07/07/2021)] TJ ET
+BT 112.943 630.736 Td /F2 8.2 Tf  [(Data de encerramento: )] TJ ET
+BT 112.943 618.984 Td /F1 8.2 Tf  [(31/08/2022)] TJ ET
+BT 112.943 595.682 Td /F2 8.2 Tf  [(Marcos: )] TJ ET
+BT 112.943 560.830 Td /F2 8.2 Tf  [(Critérios de aceite: )] TJ ET
+BT 112.943 549.078 Td /F1 8.2 Tf  [(Aprovação do Orientador; )] TJ ET
+BT 112.943 502.676 Td /F1 8.2 Tf  [(Aprovação da Banca Examinadora; )] TJ ET
+BT 112.943 456.273 Td /F1 8.2 Tf  [(Conformidade com as normas da instituição; )] TJ ET
+BT 112.943 409.871 Td /F1 8.2 Tf  [(Prazos Cumpridos.)] TJ ET
+BT 276.322 375.019 Td /F2 8.2 Tf  [(Signatures)] TJ ET
+0.000 0.000 0.000 RG
+267.148 324.698 m 325.839 324.698 l 325.839 323.948 l 267.148 323.948 l  f
+BT 267.148 317.067 Td /F1 8.2 Tf  [(Project Sponsor)] TJ ET
+263.246 278.296 m 332.034 278.296 l 332.034 277.546 l 263.246 277.546 l  f
+BT 263.246 270.665 Td /F1 8.2 Tf  [(Gerente do projeto)] TJ ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000290 00000 n 
+0000000319 00000 n 
+0000000458 00000 n 
+0000000521 00000 n 
+0000005099 00000 n 
+0000005206 00000 n 
+0000005318 00000 n 
+0000005383 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+6786
+%%EOF
